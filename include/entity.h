@@ -1,7 +1,7 @@
 #ifndef ENTITY_H_
 #define ENTITY_H_
 
-#include <bits/types/struct_timespec.h>
+#include <time.h>
 #include <raylib.h>
 #include <string>
 
